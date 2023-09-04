@@ -1,2 +1,2 @@
 # serenatto
-Projeto desenvolvido com o framework bootstrap 5
+Projeto desenvolvido com o fraamework bootstrap 5
